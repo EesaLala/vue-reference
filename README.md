@@ -1,4 +1,6 @@
-# test
+# vue js reference material
+
+Intro to basic features. Components, Props, Local State, Router, Conditional rendering 
 
 ## Project setup
 ```
